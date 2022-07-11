@@ -1,0 +1,11 @@
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+input, label, textarea {
+    display: block;
+    margin-top: .3em;
+}
+
